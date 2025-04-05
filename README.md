@@ -57,10 +57,10 @@ Inspirado na rotina real de planejamento financeiro familiar, o projeto tem como
 
 Veja os documentos principais na pasta `/docs`:
 
-- 📄 [[Requisitos]]
+- 📄 [[Requisitos]](docs/requisitos.md)
     
-- 🏗️ [[Arquitetura]]
+- 🏗️ [[Arquitetura]](docs/arquitetura.md)
     
-- 🗓️ [[Planejamento]]
+- 🗓️ [[Planejamento]](docs/planejamento.md)
     
-- 🧠 [[Aprendizado]]
+- 🧠 [[Aprendizado]](docs/aprendizado.md)
