@@ -2,6 +2,12 @@ import unittest
 import uuid
 from datetime import date
 from finance_app.core.models.transaction import Transaction
+import sys
+print("\n### sys.path ###")
+for p in sys.path:
+    print(p)
+print("################\n")
+
 
 
 class TestTransaction(unittest.TestCase):
