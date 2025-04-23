@@ -64,3 +64,5 @@ Veja os documentos principais na pasta `/docs`:
 - 🗓️ [[Planejamento]](docs/planejamento.md)
     
 - 🧠 [[Aprendizado]](docs/aprendizado.md)
+	 
+- 📄 [[Instruções]](docs/instruções.md)
