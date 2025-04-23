@@ -24,3 +24,10 @@ Thumbs.db
 
 # Backups
 persona_finance_backup
+
+# Data
+finance_app/data
+
+# Misc
+.coverage
+
