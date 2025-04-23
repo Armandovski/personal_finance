@@ -65,4 +65,4 @@ Veja os documentos principais na pasta `/docs`:
     
 - 🧠 [[Aprendizado]](docs/aprendizado.md)
 	 
-- 📄 [[Instruções]](docs/instruções.md)
+- 📄 [[Instruções]](docs/instrucoes.md)
