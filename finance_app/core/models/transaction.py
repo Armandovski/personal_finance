@@ -80,7 +80,7 @@ class Transaction:
             "pago": self.pago
         }
     
-    @staticmethod
+    @staticmethod # Wrapper que basicamente passa o 'self' automaticamente, já que não colocamos o 'self' na função
     def from_dict(data: dict) -> "Transaction":
         """
         Cria uma instância de Transaction a partir de um dicionário.
