@@ -15,5 +15,9 @@ $> .venv/Scripts/Activate
 ## Rodar testes
 
 ```sh
-personal_finance$ python3 -m unittest discover -s tests
+personal_finance$ python3 -m unittest discover -s tests/core/models
+```
+
+```sh
+personal_finance$ python3 -m unittest discover -s tests/core/repositories
 ```
